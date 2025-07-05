@@ -1,2 +1,2 @@
-# telegram-bot-wether
+# гнп
 simple bot 
